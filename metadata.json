@@ -1,0 +1,7 @@
+{
+  "name": "Bravo Quest",
+  "description": "An active senior lifestyle app combining brain training, hobby certification, and rewards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
